@@ -9,10 +9,6 @@ MENTAのタスク管理用リポジトリ
 
 https://github.com/rexitorg/menta/issues/new
 
-(2) issueを作成する際に `Projects` を `MENTA` に設定してください。
-
-![2019-01-21 20 38 13](https://user-images.githubusercontent.com/13507595/51472407-b6d54c80-1dbc-11e9-8286-68ebe9f007ec.png)
-
 ## 進捗の確認方法
 
 進捗状況はGitHub Projectsで確認することができます。
