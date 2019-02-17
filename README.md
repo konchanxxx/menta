@@ -5,7 +5,7 @@ MENTAのタスク管理用リポジトリ
 
 ## 新規作成の方法
 
-(1) 発生した質問や問題は以下からissueを作成してください。
+発生した質問や問題は以下からissueを作成してください。
 
 https://github.com/rexitorg/menta/issues/new
 
