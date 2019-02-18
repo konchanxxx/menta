@@ -21,6 +21,10 @@ https://github.com/rexitorg/menta/projects/1
 
 ![2019-01-21 20 42 04](https://user-images.githubusercontent.com/13507595/51472524-0ca9f480-1dbd-11e9-8053-288596b12b0e.png)
 
+## Issue Close（解決）について
+
+issueは解決したらcloseするので解決した場合はコメントしてください。closeせずに放置しないようにしてください。
+
 ## issueのステータスについて
 
 ステータスは以下の通りです。回答済みで再確認が必要な場合は依頼中にissueを移動してください。
